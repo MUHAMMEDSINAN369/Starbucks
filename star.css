@@ -1,0 +1,419 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.Starbucks{
+    display: flex;
+    background-color: aliceblue;
+}
+.navbar{
+    margin-left: 20px;
+    
+    margin-left: 50px;
+    margin-top: 10px;
+}
+.headings{
+    display: flex;
+   margin-left: 160px;
+}
+.headings li{
+    margin-left: 30px;
+    padding: 20px 0 20px 0;
+    list-style: none;
+}
+.searchbar{
+    height: 30px;
+    display: flex;
+    justify-content: space-around;
+    width: 300px;
+    border: 1px solid black;
+    border-radius: 35px;
+    margin-top:30px; 
+    margin-left: 300px;
+
+   
+}
+.para{
+    margin-top: 5px;
+}
+.para:hover{
+   color: rgb(184, 181, 181);
+}
+
+.searchbarimg{
+    margin-top:5px;
+    margin-left: 10px;
+    
+}
+.profileimg{
+    margin-left: 150px;
+    margin-top: 30px; 
+}
+li:hover {
+  color:red;
+  border-bottom: 1px solid black; 
+  
+}
+
+
+.mv{
+   background-color: rgb(8, 50, 28);
+   height: 70px;
+}
+.mvv{
+    
+    margin-left: 80rem;
+    
+    
+}
+.mvv button{
+    margin-left: 40px;
+    margin-top: 15px;
+    border-radius:45px ;
+    padding: 10px;
+    
+ 
+}
+
+.banner{
+    width: 90%;
+    height: 14rem;
+    background-color: rgb(246, 98, 19);
+    display: flex;
+    justify-content: space-between ;
+    margin-top: 30px;
+
+}
+.imgbanner{
+    width: 100px;
+    height: 209px;
+}
+.bannerbtn{
+    border-radius: 30px;
+    
+   
+}
+.paragraph{
+    margin-right: 350px;
+    margin-top: 50px; 
+}
+.banner{
+    margin-left: 5%;
+}
+.bannerbtn{
+    margin-top: 110px;
+    margin-right: 50px;
+    padding: 10px;
+   
+   
+}
+.teabnr{
+    margin-top: 80px;
+    margin-left: 90px;
+}
+
+
+.teaimg1{
+    height: 100px;
+    width:100px;
+    border-radius: 45px;
+   
+
+
+}
+.teaimg2{
+    height: 100px;
+    width:100px;
+    border-radius: 45px; 
+
+     
+}
+.teaimg3{
+    height: 100px;
+    width:100px;
+    border-radius: 45px; 
+
+     
+}
+.teaimg4{
+    height: 100px;
+    width:100px;
+    border-radius: 45px;
+
+     
+}
+.teaimg5{
+    height: 100px;
+    width:100px;
+    border-radius: 45px;
+
+     
+}
+.teaimg6{
+    height: 100px;
+    width:100px;
+    border-radius: 45px;
+
+     
+}
+.teaimg0{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    width: 90%;
+    margin-top: 50px;
+    margin-left: 90px;
+}
+
+
+
+.cardimg{
+    height: 80px;
+    width: 80px;
+    border-radius: 25px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.cardsname{
+    margin-top: 70px;
+    margin-left: 90px;
+}
+.cardsection{
+    margin-left: 80px;
+    margin-top: 50px;
+}
+.card1{
+    width: 380px;
+   display: flex; 
+   justify-content: space-between;
+   background-color: #D4E9E2;
+   border-radius: 10px;
+}
+.cardrate{
+    margin-top: 110px;
+    margin-left: -60px;
+}
+.textname{
+    margin-right: 20px;
+    margin-top: 40px;
+}
+.dotimg{
+    margin-left: 20px;
+    margin-top: 45px;
+}
+.crdbtn{
+    margin-top: 70px;
+    border-radius: 10px;
+    margin-right: 10px;
+    background-color: rgb(8, 50, 28);
+    width: 70px;
+    height: 30px;
+}
+
+
+
+
+.card2{
+    width: 395px;
+    display: flex; 
+    justify-content: space-between;
+    background-color: #D4E9E2;
+    border-radius: 10px;  
+    margin-left: 490px;
+    margin-top:-130px;
+}
+.cardimg1{
+    height: 80px;
+    width: 80px;
+    border-radius: 25px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.cardrate1{
+    margin-top: 115px;
+    margin-left: -50px;
+}
+.textname1{
+    
+    margin-top: 20px;
+    margin-left: 10px;
+} 
+.dotimg1{
+    margin-left: 20px;
+    margin-top: 30px;
+} 
+.crdbtn1{
+    margin-top: 70px;
+    border-radius: 10px;
+    margin-right: 10px;
+    background-color: rgb(8, 50, 28);
+    width:70px ;
+    height: 30px;
+}
+
+
+
+.card3{
+    width: 380px;
+    display: flex; 
+    justify-content: space-between;
+    background-color: #D4E9E2;
+    border-radius: 10px;  
+    margin-left: 980px;
+    margin-top: -130px;
+}
+.cardimg2{
+    height: 80px;
+    width: 80px;
+    border-radius: 25px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.cardrate2{
+    margin-top: 115px;
+    margin-left: -50px;
+}
+.textname2{
+    margin-right: 20px;
+    margin-top: 30px;
+    margin-left: 25px;
+} 
+.dotimg2{
+    margin-left: 30px;
+    margin-top: 40px;
+} 
+.crdbtn2{
+    margin-top: 70px;
+    border-radius: 10px;
+    margin-right: 10px;
+    background-color: rgb(8, 50, 28);
+    width:70px ;
+    height: 30px;
+}
+
+
+
+.posterheading{
+    margin-top: 50px;
+    margin-left: 70px;
+}
+ 
+.posters{
+margin-top: 50px;
+margin-left: 90px;
+}
+
+
+.postertitle{
+    margin-left: 30px;
+    margin-top: -120px;
+   color: #f3f6f3;
+}
+.postername{
+    margin-top: 2px;
+    color: #1d352d;
+    margin-left: 30px;
+}
+.posterbutton{
+    margin-top: 10px;
+    margin-left: 30px;
+    border-radius: 20px;
+    height: 32px;
+    width: 200px;
+}
+
+
+.endsection a{
+    text-decoration: none;
+    color: black;
+}
+
+
+
+.endimg{
+    margin-left: 80px;
+    margin-top: 80px;
+}
+
+
+.endtext1{
+margin-left: 100px;
+margin-top: 80px;
+display: flex;
+flex-direction: column;
+
+}
+.endtext2{
+    margin-left: 80px;
+    margin-top: 80px;
+    display: flex;
+    flex-direction: column;   
+}
+.endtext3{
+    margin-left: 90px;
+    margin-top: 80px;
+    display: flex;
+    flex-direction: column;
+}
+.mediahead{
+    margin-left: 70px;
+    margin-top: 80px;
+}
+.mediaimgs{
+ margin-top: 20px;
+ margin-left: 55px ;
+ display: flex;
+ 
+    
+}
+.socialmediaimg1{
+    height: 35px;
+    width: 35px;
+  
+    
+   
+}
+.socialmediaimg2{
+    height: 35px;
+    width: 35px;
+    
+}
+
+.socialmediaimg3{
+    height: 35px;
+    width: 35px;
+    
+}
+.Storeimg{
+    margin-top: 90px;
+}
+
+footer{
+    padding: 20px 20px 30px 20px;
+    background: rgb(8, 50, 28);
+    margin-top: 50px;
+
+}
+.wrap{
+    border-bottom: 1px solid white;
+    padding: 10px 0 100px 0;
+    width: 100% ;
+    display: flex;
+}
+.ft-legal-list{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-right: 800px;
+    margin-top: 20px;
+
+}
+.ft-legal-list2{
+   margin-left: 1000px;
+   margin-top: -20px;
+}
+
+
+
